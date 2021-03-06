@@ -6,4 +6,4 @@ muhammetyildiz@gmail.com
 Phone: 614-477-2451 |  
 MyBLOG: https://muhammetyildiz.medium.com 
 
-I’m currently working on school web site with database embedded.
+I’m currently working on school web site with database embedded in it.
